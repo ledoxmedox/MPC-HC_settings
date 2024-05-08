@@ -1,0 +1,1167 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC]
+"ExePath"="C:\\Program Files (x86)\\K-Lite Codec Pack\\MPC-HC64\\mpc-hc64.exe"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Capture]
+"VidDispName"="@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\\{A3FCE0F5-3493-419F-958A-ABA1250EC20B}"
+"AudDispName"=""
+"Country"=dword:00000001
+"VidOutput"=dword:00000001
+"AudOutput"=dword:00000001
+"VidPreview"=dword:00000001
+"AudPreview"=dword:00000001
+"FileFormat"=dword:00000000
+"FileName"="D:\\This PC\\Dokumen\\MPC-HC Capture\\mpc-hc64_capture_[time].avi"
+"SepAudio"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Capture\@device:pnp:]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Capture\@device:pnp:\?]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Capture\@device:pnp:\?\root#media#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Capture\@device:pnp:\?\root#media#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global]
+"MediaType"=hex:76,69,64,73,00,00,10,00,80,00,00,aa,00,38,9b,71,7d,eb,36,e4,4f,52,ce,11,9f,53,00,20,af,0b,a7,70,01,00,00,00,00,00,00,00,00,30,2a,00,80,9f,58,05,56,c3,ce,11,bf,01,00,aa,00,55,59,5a,00,00,00,00,00,00,00,00,00,00,00,00,58,00,00,00,00,00,00,00,f0,95,fd,02,00,00,00,00
+"Format"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,80,51,01,00,00,00,00,b4,c4,04,00,00,00,00,00,28,00,00,00,00,00,00,00,00,00,00,00,01,00,18,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Commands2]
+"CommandMod0"="24044 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod1"="816 9 57 \"\" 5 0 0 0 0 0"
+"CommandMod2"="889 3 20 \"\" 5 2 0 2 0 0"
+"CommandMod3"="887 3 0 \"\" 5 0 0 0 0 0"
+"CommandMod4"="888 3 0 \"\" 5 0 0 0 0 0"
+"CommandMod5"="890 3 be \"\" 5 0 0 0 0 0"
+"CommandMod6"="896 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod7"="902 1 27 \"\" 5 0 0 0 0 0"
+"CommandMod8"="901 1 25 \"\" 5 0 0 0 0 0"
+"CommandMod9"="904 1 30 \"\" 5 16 0 16 9 9"
+"CommandMod10"="903 1 39 \"\" 5 17 0 17 9 9"
+"CommandMod11"="996 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod12"="33449 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod13"="33450 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod14"="33451 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod15"="33454 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod16"="33455 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod17"="922 3 22 \"\" 5 13 0 13 0 0"
+"CommandMod18"="921 3 21 \"\" 5 10 0 10 0 0"
+"CommandMod19"="24051 1 dc \"\" 5 0 0 0 0 0"
+"CommandMod20"="831 1 d \"\" 5 0 0 0 0 0"
+"CommandMod21"="909 1 4d \"\" 5 0 0 0 0 0"
+"CommandMod22"="952 1 53 \"\" 5 0 0 0 0 0"
+"CommandMod23"="953 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod24"="954 5 dc \"\" 5 0 0 0 0 0"
+"CommandMod25"="955 1 0 \"\" 5 0 0 0 0 0"
+"CommandMod26"="956 9 dc \"\" 5 0 0 0 0 0"
+"CommandMod27"="2302 5 52 \"\" 5 0 0 0 0 0"
+"CommandMod28"="24000 1 bd \"\" 5 0 0 0 0 0"
+"CommandMod29"="24001 1 bb \"\" 5 0 0 0 0 0"
+"CommandMod30"="947 9 4e \"\" 5 0 0 0 0 0"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs\CmdLineHelp]
+"WindowPlacement"="225,295,1146,777,1,0,-1,-1"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs\DebugShaders]
+"FirstRun"=dword:00000000
+"LastVersion"=dword:00000003
+"LastFile"="C:\\Program Files (x86)\\K-Lite Codec Pack\\MPC-HC64\\Shaders\\0-255 to 16-235.hlsl"
+"WindowPlacement"="-1294,233,-625,816,1,0,-1,-1"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs\OrganizeFavorites]
+"WindowPlacement"="0,551,760,1037,1,0,-1,-1"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs\SubtitleDl]
+"ColWidth"="100,251,80,116,85,40,250,40,"
+"SortColumn"=dword:00000002
+"SortOrder"=dword:00000000
+"WindowPlacement"="781,309,1781,750,1,0,0,0"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Dialogs\SubtitleUp]
+"ColWidth"="120,75,250,"
+"WindowPlacement"="214,332,1105,746,1,0,0,0"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\DVBConfiguration]
+"BDATuner"=""
+"BDAReceiver"=""
+"BDAScanFreqStart"=dword:00073b90
+"BDAScanFreqEnd"=dword:000d1790
+"BDABandWidth"=dword:00000008
+"BDASymbolRate"=dword:00000000
+"BDAUseOffset"=dword:00000000
+"BDAOffset"=dword:000000a6
+"BDAIgnoreEncryptedChannels"=dword:00000000
+"LastChannel"=dword:ffffffff
+"RebuildFilterGraph"=dword:00000002
+"StopFilterGraph"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Favorites]
+"RememberPosition"=dword:00000001
+"RelativeDrive"=dword:00000000
+"RememberABMarks"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Favorites\Devices]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Favorites\DVDs]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Favorites\Files]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\FileFormats]
+"avi"="avi \\0"
+"mpeg"="mpg mpeg mpe m1v m2v mpv2 mp2v pva evo m2p \\0"
+"mpegts"="ts tp trp m2t m2ts mts rec ssif \\0"
+"dvdvideo"="vob ifo \\0"
+"mkv"="mkv mk3d \\0"
+"webm"="webm \\0"
+"mp4"="mp4 m4v mp4v mpv4 hdmov \\0"
+"mov"="mov \\0"
+"3gp"="3gp 3gpp 3ga \\0"
+"3g2"="3g2 3gp2 \\0"
+"flv"="flv f4v \\0"
+"ogm"="ogm ogv \\0"
+"rm"="rm rmvb \\0"
+"rt"="rt ram rpm rmm rp smi smil \\0"
+"wmv"="wmv wmp wm asf \\0"
+"bink"="smk bik \\0"
+"flic"="fli flc flic \\0"
+"dsm"="dsm dsv dsa dss \\0"
+"ivf"="ivf \\0"
+"swf"="swf \\3"
+"other"="divx amv mxf dv dav \\0"
+"ac3"="ac3 \\0"
+"dts"="dts dtshd dtsma \\0"
+"aiff"="aif aifc aiff \\0"
+"alac"="alac \\0"
+"amr"="amr \\0"
+"ape"="ape apl \\0"
+"au"="au snd \\0"
+"audiocd"="cda \\0"
+"flac"="flac \\0"
+"m4a"="m4a m4b m4r aac \\0"
+"midi"="mid midi rmi \\0"
+"mka"="mka \\0"
+"mp3"="mp3 \\0"
+"mpa"="mpa mp2 m1a m2a \\0"
+"mpc"="mpc \\0"
+"ofr"="ofr ofs \\0"
+"ogg"="ogg oga \\0"
+"opus"="opus \\0"
+"ra"="ra \\0"
+"tak"="tak \\0"
+"tta"="tta \\0"
+"wav"="wav \\0"
+"wma"="wma \\0"
+"wavpack"="wv \\0"
+"other_audio"="aob mlp thd mpl spx caf \\0"
+"pls"="asx m3u m3u8 pls wvx wax wmx mpcpl \\0"
+"cue"="cue \\0"
+"bdpls"="mpls bdmv \\0"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\FileFormats2]
+"avi"="avi"
+"mpeg"="mpg mpeg mpe m1v m2v mpv2 mp2v pva evo m2p"
+"mpegts"="ts tp trp m2t m2ts mts rec ssif"
+"dvdvideo"="vob ifo"
+"mkv"="mkv mk3d"
+"webm"="webm"
+"mp4"="mp4 m4v mp4v mpv4 hdmov"
+"mov"="mov"
+"3gp"="3gp 3gpp 3g2 3gp2"
+"flv"="flv f4v"
+"ogm"="ogm ogv"
+"rm"="rm rmvb"
+"rt"="rt ram rpm rmm rp smi smil"
+"wmv"="wmv wmp wm asf"
+"bink"="smk bik"
+"flic"="fli flc flic"
+"dsm"="dsm dsv dsa dss"
+"ivf"="ivf"
+"other"="divx amv mxf dv dav"
+"bdpls"="mpls bdmv"
+"3ga"="3ga"
+"ac3"="ac3"
+"dts"="dts dtshd dtsma"
+"aiff"="aif aifc aiff"
+"alac"="alac"
+"amr"="amr"
+"ape"="ape apl"
+"au"="au snd"
+"audiocd"="cda"
+"flac"="flac"
+"m4a"="m4a m4b m4r aac"
+"midi"="mid midi rmi"
+"mka"="mka"
+"mp3"="mp3"
+"mpa"="mpa mp2 m1a m2a"
+"mpc"="mpc"
+"ofr"="ofr ofs"
+"ogg"="ogg oga"
+"opus"="opus"
+"ra"="ra"
+"tak"="tak"
+"tta"="tta"
+"wav"="wav"
+"wma"="wma"
+"wavpack"="wv"
+"weba"="weba"
+"other_audio"="aob mlp thd mpl spx caf"
+"pls"="asx m3u m3u8 pls wvx wax wmx mpcpl"
+"cue"="cue"
+"swf"="swf"
+"rar"="rar"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Filters]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Filters\MPC Audio Renderer]
+"DeviceMode"=dword:00000000
+"WasapiMethod"=dword:00000000
+"BufferDuration"=dword:00000000
+"SoundDeviceId"=""
+"SoundDeviceName"="Primary Sound Driver"
+"UseBitExactOutput"=dword:00000001
+"UseSystemLayoutChannels"=dword:00000001
+"CheckFormat"=dword:00000001
+"ReleaseDeviceIdle"=dword:00000000
+"CrossFeed"=dword:00000001
+"DummyChannels"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Filters\x64]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters]
+"TRA_WMV"=dword:00000000
+"SRC_CDDA"=dword:00000001
+"SRC_CDXA"=dword:00000001
+"SRC_VTS"=dword:00000001
+"SRC_FLIC"=dword:00000001
+"SRC_AC3"=dword:00000001
+"SRC_DTS"=dword:00000001
+"SRC_MATROSKA"=dword:00000001
+"SRC_HTTP"=dword:00000001
+"SRC_RTSP"=dword:00000001
+"SRC_UDP"=dword:00000001
+"SRC_RTP"=dword:00000001
+"SRC_MMS"=dword:00000001
+"SRC_RTMP"=dword:00000001
+"SRC_REALMEDIA"=dword:00000001
+"SRC_AVI"=dword:00000001
+"SRC_AVS"=dword:00000001
+"SRC_OGG"=dword:00000001
+"SRC_MPEG"=dword:00000001
+"SRC_MPEGTS"=dword:00000001
+"SRC_MPA"=dword:00000001
+"SRC_DSM"=dword:00000001
+"SRC_SUBS"=dword:00000001
+"SRC_MP4"=dword:00000001
+"SRC_FLV"=dword:00000001
+"SRC_GIF"=dword:00000000
+"SRC_ASF"=dword:00000000
+"SRC_WTV"=dword:00000001
+"SRC_FLAC"=dword:00000001
+"SRC_RFS"=dword:00000001
+"SRC_MISC"=dword:00000001
+"TRA_MPEG1"=dword:00000000
+"TRA_MPEG2"=dword:00000000
+"TRA_RV"=dword:00000000
+"TRA_RA"=dword:00000000
+"TRA_MPA"=dword:00000000
+"TRA_DTS"=dword:00000000
+"TRA_LPCM"=dword:00000000
+"TRA_AC3"=dword:00000000
+"TRA_AAC"=dword:00000000
+"TRA_ALAC"=dword:00000000
+"TRA_ALS"=dword:00000000
+"TRA_PS2AUD"=dword:00000000
+"TRA_VORBIS"=dword:00000000
+"TRA_FLAC"=dword:00000000
+"TRA_NELLY"=dword:00000000
+"TRA_AMR"=dword:00000000
+"TRA_OPUS"=dword:00000000
+"TRA_WMA"=dword:00000000
+"TRA_WMAPRO"=dword:00000000
+"TRA_WMALL"=dword:00000000
+"TRA_PCM"=dword:00000000
+"TRA_H264"=dword:00000001
+"TRA_HEVC"=dword:00000001
+"TRA_AV1"=dword:00000000
+"TRA_VC1"=dword:00000000
+"TRA_FLV4"=dword:00000000
+"TRA_VP356"=dword:00000000
+"TRA_VP8"=dword:00000000
+"TRA_VP9"=dword:00000001
+"TRA_XVID"=dword:00000000
+"TRA_DIVX"=dword:00000000
+"TRA_MSMPEG4"=dword:00000000
+"TRA_SVQ3"=dword:00000000
+"TRA_H263"=dword:00000000
+"TRA_THEORA"=dword:00000000
+"TRA_AMVV"=dword:00000000
+"TRA_MJPEG"=dword:00000000
+"TRA_INDEO"=dword:00000000
+"TRA_SCREEN"=dword:00000000
+"TRA_FLIC"=dword:00000000
+"TRA_MSVIDEO"=dword:00000000
+"TRA_V210_V410"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\Audio Renderer]
+"DeviceId"=""
+"DeviceExclusive"=dword:00000000
+"DeviceBufferDuration"=dword:000000c8
+"CrossfeedEnabled"=dword:00000000
+"CrossfeedCutoffFrequency"=dword:000002bc
+"CrossfeedLevel"=dword:0000003c
+"IgnoreSystemChannelMixer"=dword:00000001
+"AllowBitstreaming"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\LAVAudio]
+"TrayIcon"=dword:00000000
+"SampleConvertDither"=dword:00000001
+"DRCEnabled"=dword:00000001
+"Output51Legacy"=dword:00000001
+"ExpandMono"=dword:00000001
+"MixingLayout"=dword:00000003
+"MixingFlags"=dword:00000000
+"Mixing"=dword:00000000
+"MixingCenterLevel"=dword:00002710
+"MixingLFELevel"=dword:00000000
+"Bitstreaming_ac3"=dword:00000000
+"Bitstreaming_dts"=dword:00000000
+"Bitstreaming_eac3"=dword:00000000
+"Bitstreaming_dtshd"=dword:00000000
+"Bitstreaming_truehd"=dword:00000000
+"DRCLevel"=dword:00000064
+"DTSHDFraming"=dword:00000001
+"BitstreamingFallback"=dword:00000001
+"AutoAVSync"=dword:00000000
+"Expand61"=dword:00000000
+"OutputStandardLayout"=dword:00000001
+"MixingMode"=dword:00000000
+"MixingSurroundLevel"=dword:00001b9f
+"AudioDelayEnabled"=dword:00000000
+"AudioDelay"=dword:00000000
+"SampleFormat_s16"=dword:00000001
+"SampleFormat_s24"=dword:00000001
+"SampleFormat_s32"=dword:00000001
+"SampleFormat_u8"=dword:00000001
+"SampleFormat_fp32"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\LAVSplitter]
+"TrayIcon"=dword:00000000
+"QueueMaxPackets"=dword:0000015e
+"QueueMaxSize"=dword:00000080
+"NetworkAnalysisDuration"=dword:00000834
+"prefAudioLangs"="ind,jpn,eng"
+"prefSubLangs"="ind,eng"
+"subtitleMode"=dword:00000002
+"subtitleAdvanced"="ind:ind|df,ind:eng|df,ind:*|df,ind:off,*:ind,*:eng,*:*|df"
+"PGSForcedStream"=dword:00000001
+"PGSOnlyForced"=dword:00000000
+"vc1TimestampMode"=dword:00000002
+"substreams"=dword:00000001
+"MatroskaExternalSegments"=dword:00000001
+"StreamSwitchRemoveAudio"=dword:00000000
+"PreferHighQualityAudio"=dword:00000001
+"ImpairedAudio"=dword:00000000
+"StreamSwitchReselectSubs"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\LAVVideo]
+"TrayIcon"=dword:00000000
+"MSWMV9DMO"=dword:00000001
+"StreamAR"=dword:00000002
+"NumThreads"=dword:00000000
+"DeintFieldOrder"=dword:00000000
+"DeintMode"=dword:00000000
+"RGBRange"=dword:00000002
+"SWDeintMode"=dword:00000000
+"SWDeintOutput"=dword:00000000
+"DitherMode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\LAVVideo\HWAccel]
+"HWAccel"=dword:00000005
+"h264"=dword:00000001
+"vc1"=dword:00000000
+"mpeg2"=dword:00000000
+"hevc"=dword:00000001
+"hevc10"=dword:00000001
+"vp9"=dword:00000001
+"av1"=dword:00000000
+"mpeg4"=dword:00000000
+"dvd"=dword:00000000
+"HWResFlags"=dword:00000007
+"h264mvc"=dword:00000001
+"HWDeintMode"=dword:00000000
+"HWDeintOutput"=dword:00000000
+"HWAccelDeviceDXVA2"=dword:ffffffff
+"HWAccelDeviceDXVA2Desc"=dword:00000000
+"HWAccelDeviceD3D11"=dword:ffffffff
+"HWAccelDeviceD3D11Desc"=dword:00000000
+"HWAccelCUVIDXVA"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Internal Filters\LAVVideo\OutputFormat]
+"yv12"=dword:00000001
+"nv12"=dword:00000001
+"yuy2"=dword:00000001
+"uyvy"=dword:00000001
+"ayuv"=dword:00000000
+"p010"=dword:00000001
+"p210"=dword:00000001
+"y410"=dword:00000001
+"p016"=dword:00000001
+"p216"=dword:00000001
+"y416"=dword:00000001
+"rgb32"=dword:00000001
+"rgb24"=dword:00000001
+"v210"=dword:00000001
+"v410"=dword:00000001
+"yv16"=dword:00000000
+"yv24"=dword:00000001
+"rgb48"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\+t3kzTj6yJ5O]
+"Filename"="D:\\Torrent\\[ASW] Helck - 01 [1080p HEVC][94FD5CA7].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-04T11:00:33.644395Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\/FaEFYFCxN8O]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 06.mkv"
+"Title"="S01E06-Dice is cast"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T03:36:52.220420Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.19638\\[Kusonime] Synduality Noir - 06.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\0qWmiP/NMoX+]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 10.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T06:32:04.928018Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.40827\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 10.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\0vUgakHVLGKz]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 05.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T03:49:26.937086Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.13995\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 05.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\1umpGp4cPUPA]
+"Filename"="H:\\ayaya\\Completed\\[neoHEVC] Love Live! Superstar!! [Season 1] [BD 1080p x265 HEVC AAC] [Dual Audio]\\Love Live! Superstar!! - S01E01.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T12:01:15.196656Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\2jAEIj8fnFrD]
+"Filename"="D:\\This PC\\Downloads\\Video\\[Doronime] Synduality Noir - 03 [1080p].mkv"
+"Title"="Synduality S01E03 1080p WEB H.264 AAC -Tsundere-Raws (DSNP)"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:51:25.173849Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\35xFPpEcMAEa]
+"Filename"="H:\\ayaya\\Completed\\[neoHEVC] Love Live! Superstar!! [Season 1] [BD 1080p x265 HEVC AAC] [Dual Audio]\\Love Live! Superstar!! - S01E02.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-04T09:56:41.494597Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\38v5ioiopa/z]
+"Filename"="D:\\This PC\\Downloads\\Video\\[Doronime] Synduality Noir - 01 [1080p].mkv"
+"Title"="Synduality S01E01 1080p WEB H.264 AAC -Tsundere-Raws (DSNP)"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:51:59.674163Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\3np4qdFcV8jN]
+"Filename"="D:\\Torrent\\[Ironclad] Dungeon Meshi - 01 [10bit.1080p.AV1].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T15:03:21.889367Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\7xtMY9vf7j0E]
+"Filename"="D:\\Torrent\\[ASW] Mashle - 13 [1080p HEVC][B8F766A7].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-10T05:32:53.147654Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11288.25692\\MASHLE.MAGIC.AND.MUSCLES.S02E01.Mash.Burnedead.and.the.Divine.Visionaries.1080p.AMZN.WEB-DL.DDP2.0.H.264-VARYG_track4.ind.srt"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\ak/3htbA1A6K]
+"Filename"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 05 [1080p HEVC][C8A4B88C].mkv"
+"Sub001"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 05 [1080p HEVC][C8A4B88C].ass"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T08:06:25.946311Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\at93DP38RBPQ]
+"Filename"="D:\\Torrent\\[ASW] Dekoboko Majo no Oyako Jijou - 03 [1080p HEVC][AF0BCE96].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-04T10:18:31.397963Z"
+"Sub001"="D:\\This PC\\Downloads\\E3 - Kisah Kenangan Perkumpulan Penyihir [12994562].id.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\bpAaaB0zY1Oa]
+"Filename"="H:\\Prepare to delete\\Azumanga Daioh (Subbed & Dubbed)\\Azumanga Daioh - Episode 08 - New Years Dream Special.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T08:11:33.923814Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\bUHb71gAGltA]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 12.mkv"
+"Title"="S01E12-Mirage of the Ideal"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:29:55.093886Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.17935\\[Kusonime] Synduality Noir - 12 END.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\c1x3yDcrXapF]
+"Filename"="H:\\Prepare to delete\\Azumanga Daioh (Subbed & Dubbed)\\Azumanga Daioh - Episode 07 - Culture Fest.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T07:50:17.365418Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\cDSFWNgqQ6KW]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 07.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T04:33:01.645761Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.26576\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 07.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\edzlcKsvvu+c]
+"Filename"="H:\\Prepare to delete\\Azumanga Daioh (Subbed & Dubbed)\\Azumanga Daioh - Episode 06 - Sports Fest.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T07:21:22.118501Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13456.47519\\[Kusonime] [Kuso] Azumanga Daioh - 06.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\hM3rsgSfLeZi]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 01.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T14:09:26.459908Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.45067\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 01.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\i8XTScOH/xPH]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 02.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T14:33:58.094554Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.15802\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 02.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\IsB6rvrwgVOg]
+"Filename"="D:\\This PC\\Downloads\\Video\\[Doronime] Synduality Noir - 04 [1080p].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:51:14.673077Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\j6w3IOPE0UiA]
+"Filename"="D:\\Torrent\\[ASW] Boku no Kokoro no Yabai Yatsu - 13 [1080p HEVC][A1E62279].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T09:21:16.135451Z"
+"Sub001"="D:\\This PC\\Downloads\\E1 - Kita Terus Mencari [13068558].id.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\KA3fmBcYnbBD]
+"Filename"="D:\\This PC\\Downloads\\Video\\[Doronime] Synduality Noir - 02 [1080p].mkv"
+"Title"="Synduality S01E02 1080p WEB H.264 AAC -Tsundere-Raws (DSNP)"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:51:48.972035Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\kJXHb5cGGP6X]
+"Filename"="H:\\Prepare to delete\\Azumanga Daioh (Subbed & Dubbed)\\Azumanga Daioh - Episode 09 - Miss Sakaki.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T08:32:50.162531Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\KMH/dnXtwcII]
+"Filename"="H:\\ayaya\\Completed\\[65_7a] Love Live! School Idol Project (Complete) [BD 1080p AV1] [Multi-Sub] (Batch)\\Season 1\\Love Live! - S01E05.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T12:00:43.048292Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\LKZOObiwqMDl]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 09.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T06:10:43.358591Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.12260\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 09.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\lpxN7iuUYA9P]
+"Filename"="H:\\Prepare to delete\\Azumanga Daioh (Subbed & Dubbed)\\Azumanga Daioh - Episode 05 - Summer Break.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T07:21:03.118415Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\MpEc+V9SVMdx]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 06.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T04:11:04.257234Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.44796\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 06.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\mvk0MBbVdeZu]
+"Filename"="H:\\ayaya\\Completed\\[65_7a] Love Live! School Idol Project (Complete) [BD 1080p AV1] [Multi-Sub] (Batch)\\Season 1\\Love Live! - S01E04.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T11:37:01.666548Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\N18P2UiwmShQ]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 07.mkv"
+"Title"="S01E07-My dear..."
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T03:57:59.993050Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.46384\\[Kusonime] Synduality Noir - 07.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\n9q+Jwum4rTG]
+"Filename"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 06 [1080p HEVC][210BC1E2].mkv"
+"Sub001"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 06 [1080p HEVC][210BC1E2].ass"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T08:27:38.969888Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\nMfIC8uOnKGo]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 10.mkv"
+"Title"="S01E10-Drifter's pride"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T06:45:24.894286Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.788\\[Kusonime] Synduality Noir - 10.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\NUOnnvXmalHK]
+"Filename"="H:\\ayaya\\Completed\\[YuushaNi] Love Live! Sunshine!! Complete v2 (BD HEVC 1920x1080 AAC)\\Love Live! Sunshine!! Movie\\[YuushaNi] Love Live! Sunshine!! The School Idol Movie - Over the Rainbow (BD HEVC 1920x1080 AAC).mkv"
+"Title"="[Team ONIBE] Love Live! Sunshine!! Movie - Over the Rainbow [BD 1080p].mkv"
+"Sub001"="H:\\ayaya\\Completed\\[YuushaNi] Love Live! Sunshine!! Complete v2 (BD HEVC 1920x1080 AAC)\\Love Live! Sunshine!! Movie\\[YuushaNi] Love Live! Sunshine!! The School Idol Movie - Over the Rainbow (BD HEVC 1920x1080 AAC).ass"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T07:55:11.642840Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\PiXoNHSJe9pW]
+"Filename"="H:\\ayaya\\Completed\\[65_7a] Love Live! School Idol Project (Complete) [BD 1080p AV1] [Multi-Sub] (Batch)\\Season 1\\Love Live! - S01E03.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-10T06:57:22.678029Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\qr481i6MbNcu]
+"Filename"="D:\\Torrent\\[ASW] Hirogaru Sky! Precure - 47 [1080p HEVC][DD0B5280].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-07T06:23:12.318113Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\s+ZQNtgS/dzP]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 12.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T07:14:32.174872Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.45574\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 12 END.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\TFDNGkbjjDsd]
+"Filename"="D:\\This PC\\Downloads\\Video\\[Doronime] Synduality Noir - 05 [1080p].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T03:07:51.175771Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\TtH2neC4xrfa]
+"Filename"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 01 [1080p HEVC][262CF97C].mkv"
+"Sub001"="D:\\Torrent\\Jidou\\[ASW] Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - 01 [1080p HEVC][262CF97C].ass"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T04:46:07.671384Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\v9qDmdlrtKvb]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 08.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T04:55:45.217144Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.12820\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 08.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\w3528U5XPz0C]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 11.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T06:53:23.422401Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.18644\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 11.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\wYc6QNG8k9mX]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 05.mkv"
+"Title"="S01E05-Drifting the maze"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T03:15:44.581365Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.43423\\[Kusonime] Synduality Noir - 05.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\XaFf0a+AnTYT]
+"Filename"="D:\\Torrent\\[ASW] Jaku-Chara Tomozaki-kun S2 - 01 [1080p HEVC][3FA0092D].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-10T06:51:25.983753Z"
+"Sub001"="D:\\This PC\\Downloads\\E1 - Sebuah Gim dengan Bagian Pengumpulan Informasi yang Tak Membosankan Adalah Sebuah Mahakarya [13065937].id.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\xkYwH7mUtXid]
+"Filename"="D:\\Torrent\\[ASW] Dekoboko Majo no Oyako Jijou - 02 [1080p HEVC][520CCE84].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-04T09:57:00.593130Z"
+"Sub001"="D:\\This PC\\Downloads\\E2 - Hal yang Sering Terjadi Dalam Pola Asuh Penyihir [12994419].id.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\XQDrV25xK5aB]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 11.mkv"
+"Title"="S01E11-Storm of A.I."
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T07:06:32.640272Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.28205\\[Kusonime] Synduality Noir - 11.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\Y/mXHXBMQI8a]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 08.mkv"
+"Title"="S01E08-Pure dream"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T04:20:35.611657Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.31856\\[Kusonime] Synduality Noir - 08.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\Y28ge0damEE/]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 04.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T21:24:00.232011Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.15249\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 04.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\yfkpS5FcpqNx]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - 03.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-08T20:46:32.741327Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa11376.27557\\sub+font\\[Kusonime] Kishuku Gakkou no Juliet BD - 03.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\z6bzsh079zeE]
+"Filename"="D:\\Torrent\\[Judas] Kishuku Gakkou no Juliet (Boarding School Juliet) (Season 1) [BD 1080p][HEVC x265 10bit][Multi-Subs]\\[Judas] Kishuku Gakkou no Juliet S1 - NCED.mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T07:38:41.894874Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\zmRADJIJQ9uD]
+"Filename"="D:\\Torrent\\[ASW] Dekoboko Majo no Oyako Jijou - 04 [1080p HEVC][9AB97827].mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-04T10:39:41.231538Z"
+"Sub001"="D:\\This PC\\Downloads\\E4 - Kisah Permintaan Manusia Setengah Monster yang Kanak-kanak [12994707].id.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\znwcU+7HMszV]
+"Filename"="D:\\Torrent\\Nichijou\\[DB]Nichijou_-_01_(Dual Audio_10bit_BD1080p_x265).mkv"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-09T08:05:19.645165Z"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\MediaHistory\ZQh84fn49Mgl]
+"Filename"="D:\\Torrent\\Synduality Noir S01 1080p WEBRip AAC x265-EMBER\\[EMBER] Synduality Noir - 09.mkv"
+"Title"="S01E09-Legendary Hero"
+"FilePosition"=dword:00000000
+"LastOpened"="2024-01-06T06:24:19.149960Z"
+"Sub001"="C:\\Users\\ledox\\AppData\\Local\\Temp\\Rar$DRa13492.23776\\[Kusonime] Synduality Noir - 09.ass"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Recent Dub List]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings]
+"AudioBoost"=dword:00000000
+"DisableSubtitleAnimation"=dword:00000000
+"SubtitleRenderer"=dword:00000000
+"SettingsVersion"=dword:00000008
+"HideCaptionMenu"=dword:00000000
+"HideNavigation"=dword:00000000
+"ControlState"=dword:00000013
+"DefaultVideoFrame"=dword:00000004
+"KeepAspectRatio"=dword:00000001
+"CompMonDeskARDiff"=dword:00000000
+"Volume"=dword:0000003c
+"Balance"=dword:00000000
+"VolumeStep"=dword:00000005
+"SpeedStep"=dword:00000019
+"Mute"=dword:00000001
+"LoopNum"=dword:00000001
+"Loop"=dword:00000000
+"LoopMode"=dword:00000001
+"Zoom"=dword:00000001
+"AllowMultipleInstances"=dword:00000001
+"TitleBarTextStyle"=dword:00000001
+"TitleBarTextTitle"=dword:00000000
+"OnTop"=dword:00000000
+"TrayIcon"=dword:00000000
+"AutoZoom"=dword:00000001
+"AutoFitFactor"=dword:0000004b
+"AfterPlayback"=dword:00000000
+"HideFullscreenControls"=dword:00000001
+"HideFullscreenControlsPolicy"=dword:00000001
+"HideFullscreenControlsDelay"=dword:00000000
+"HideFullscreenDockedPanels"=dword:00000001
+"HideWindowedControls"=dword:00000000
+"HideWindowedMousePointer"=dword:00000001
+"ExitFullscreenAtTheEnd"=dword:00000001
+"RememberWindowPos"=dword:00000000
+"RememberWindowSize"=dword:00000000
+"LastWindowType"=dword:00000000
+"LastFullScreen"=dword:00000000
+"SnapToDesktopEdges"=dword:00000000
+"AspectRatioX"=dword:00000000
+"AspectRatioY"=dword:00000000
+"KeepHistory"=dword:00000001
+"RecentFilesNumber"=dword:00000032
+"DSVidRen"=dword:0000000e
+"ShufflePlaylistItems"=dword:00000000
+"RememberPlaylistItems"=dword:00000001
+"HidePlaylistFullScreen"=dword:00000000
+"APSurfaceUsage"=dword:00000002
+"DX9Resizer"=dword:00000005
+"VMR9MixerMode"=dword:00000001
+"VMRAlternateVSync"=dword:00000000
+"VMRVSyncOffset"=dword:00000000
+"VMRVSyncAccurate2"=dword:00000000
+"VMRFullscreenGUISupport"=dword:00000000
+"VMRVSync"=dword:00000001
+"VMRDisableDesktopComposition"=dword:00000000
+"VMRFullFloatingPointProcessing2"=dword:00000000
+"VMRHalfFloatingPointProcessing"=dword:00000000
+"VMRColorManagementEnable"=dword:00000000
+"VMRColorManagementInput"=dword:00000000
+"VMRColorManagementAmbientLight"=dword:00000000
+"VMRColorManagementIntent"=dword:00000000
+"EVROutputRange"=dword:00000000
+"EVRHighColorRes"=dword:00000000
+"EVRForceInputHighColorRes"=dword:00000000
+"EVREnableFrameTimeCorrection"=dword:00000000
+"VMRFlushGPUBeforeVSync"=dword:00000001
+"VMRFlushGPUAfterPresent"=dword:00000001
+"VMRFlushGPUWait"=dword:00000000
+"DesktopSizeBackBuffer"=dword:00000000
+"SynchronizeClock"=dword:00000000
+"SynchronizeDisplay"=dword:00000000
+"SynchronizeNearest"=dword:00000001
+"LineDelta"=dword:00000000
+"ColumnDelta"=dword:00000000
+"CycleDelta"=hex:61,32,55,30,2a,a9,53,3f
+"TargetSyncOffset"=hex:00,00,00,00,00,00,28,40
+"ControlLimit"=hex:00,00,00,00,00,00,00,40
+"CacheShaders"=dword:00000001
+"ResetDevice"=dword:00000000
+"SPCSize2"=dword:0000000a
+"SPCMaxResX"=dword:00000780
+"SPCMaxResY"=dword:00000438
+"RenderAtWhenSubtitleAnimationIsDisabled"=dword:00000000
+"SubtitleAnimationRate"=dword:00000064
+"AllowDroppingSubpic"=dword:00000001
+"EVRBuffers"=dword:00000005
+"D3D9RenderDevice"=""
+"AudioRendererType"="MPC Audio Renderer"
+"AutoloadAudio"=dword:00000001
+"SubtitlesLanguageOrder"="ind eng"
+"AudiosLanguageOrder"="ind eng"
+"BlockVSFilter"=dword:00000001
+"BlockRDP"=dword:00000001
+"EnableWorkerThreadForOpening"=dword:00000001
+"ReportFailedPins"=dword:00000001
+"DVDPath"=""
+"UseDVDPath"=dword:00000000
+"MenuLang"=dword:00000000
+"AudioLang"=dword:00000411
+"SubtitlesLang"=dword:00000000
+"OpenTypeLangHint"=""
+"UseFreetype"=dword:00000000
+"RenderSSAUsingLibass"=dword:00000000
+"RenderSRTUsingLibass"=dword:00000000
+"ClosedCaptions"=dword:00000000
+"SPDefaultStyle"="10;10;15;15;2;0;3.000000;3.000000;1.500000;1.500000;0xffffff;0x0000ff;0x000000;0x000000;0x00;0x00;0x00;0x00;1;Avenir Next LT Pro;16.000000;100.000000;100.000000;0.000000;700;0;0;0;0;0.000000;0.000000;0.000000;0.000000;1"
+"SPOverridePlacement"=dword:00000000
+"SPHorPos"=dword:00000032
+"SPVerPos"=dword:0000005a
+"SubtitleARCompensation"=dword:00000001
+"SubDelayInterval"=dword:000001f4
+"EnableSubtitles"=dword:00000001
+"PreferForcedDefaultSubtitles"=dword:00000001
+"PrioritizeExternalSubtitles"=dword:00000001
+"DisableInternalSubtitles"=dword:00000000
+"AllowOverridingExternalSplitterSubtitleChoice"=dword:00000001
+"AutoDownloadSubtitles"=dword:00000000
+"AutoSaveDownloadedSubtitles"=dword:00000001
+"AutoDownloadScoreMovies"=dword:00000016
+"AutoDownloadScoreSeries"=dword:00000018
+"AutoDownloadSubtitlesExclude"=""
+"AutoUploadSubtitles"=dword:00000000
+"PreferHearingImpairedSubtitles"=dword:00000000
+"MPCTheme"=dword:00000001
+"ModernSeekbarHeight"=dword:0000000c
+"ModernThemeMode"=dword:00000000
+"FullscreenDelay"=dword:00000000
+"VerticalAlignVideo"=dword:00000000
+"SubtitlesProviders"="<|OpenSubtitles|||1|1|><|podnapisi|||1|0|><|Napisy24|||0|0|>"
+"SubtitlePaths"=".;.\\subtitles;.\\subs"
+"UseDefaultsubtitlesStyle"=dword:00000001
+"EnableAudioSwitcher"=dword:00000001
+"EnableAudioTimeShift"=dword:00000000
+"AudioTimeShift"=dword:00000000
+"DownSampleTo441"=dword:00000000
+"CustomChannelMapping"=dword:00000000
+"SpeakerToChannelMapping"=hex:01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,01,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,00,00,00,00,08,00,00,00,10,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00,00,00,04,00,00,00,08,00,00,00,10,00,00,00,20,00,00,00,40,00,00,00,80,00,00,00,00,01,00,00,00,02,00
+"AudioNormalize"=dword:00000000
+"AudioMaxNormFactor"=dword:000000c8
+"AudioNormalizeRecover"=dword:00000000
+"SpeakerChannels"=dword:00000002
+"FullScreenMonitor"=""
+"FullScreenMonitorDevice"=""
+"PreventMinimize"=dword:00000000
+"UseWin7TaskBar"=dword:00000000
+"UseSearchInFolder"=dword:00000001
+"UseTimeTooltip"=dword:00000001
+"TimeTooltipPosition"=dword:00000000
+"OSDSize"=dword:00000012
+"OSDFont"="Segoe UI"
+"AssociatedWithIcon"=dword:00000001
+"LastOpenDir"="C:\\"
+"D3DFullScreen"=dword:00000000
+"VideoBrightness"=dword:00000000
+"VideoContrast"=dword:00000000
+"VideoHue"=dword:00000000
+"VideoSaturation"=dword:00000000
+"ShowOSD"=dword:00000001
+"EnableEDLEditor"=dword:00000000
+"InterfaceLanguage"=dword:00000000
+"FastSeek"=dword:00000000
+"FastSeekMethod"=dword:00000001
+"ShowChapters"=dword:00000001
+"LcdSupport"=dword:00000000
+"UseSeekPreview"=dword:00000000
+"SeekPreviewSize"=dword:0000000f
+"DefaultCapture"=dword:00000000
+"RememberDVDPos"=dword:00000000
+"RememberFilePos"=dword:00000000
+"RememberPosForLongerThan"=dword:0000000a
+"RememberPosForAudioFiles"=dword:00000000
+"UseWinLirc"=dword:00000000
+"WinLircAddr"="127.0.0.1:8765"
+"UseUICE"=dword:00000000
+"UICEAddr"="127.0.0.1:1234"
+"UseGlobalMedia"=dword:00000000
+"JumpDistS"=dword:000003e8
+"JumpDistM"=dword:0000125c
+"JumpDistL"=dword:000157c0
+"LimitWindowProportions"=dword:00000000
+"LastUsedPage"=dword:00002744
+"LogoFile"=""
+"LogoID2"=dword:000000d1
+"LogoExt"=dword:00000000
+"LogoColorProfile"=dword:00000000
+"HideCDROMsSubMenu"=dword:00000000
+"Priority"=dword:00008000
+"LaunchFullScreen"=dword:00000000
+"EnableWebServer"=dword:00000000
+"WebServerPort"=dword:0000350b
+"WebServerUseCompression"=dword:00000001
+"WebServerLocalhostOnly"=dword:00000000
+"WebUIEnablePreview"=dword:00000000
+"WebServerPrintDebugIfo"=dword:00000000
+"WebRoot"="*./webroot"
+"WebDefIndex"="index.html;index.php"
+"WebServerCGI"=""
+"SnapshotPath"="D:\\This PC\\Pictures"
+"SnapshotExt"=".jpg"
+"SnapshotSubtitles"=dword:00000000
+"SnapshotKeepVideoExtension"=dword:00000001
+"ThumbRows"=dword:00000004
+"ThumbCols"=dword:00000004
+"ThumbWidth"=dword:00000400
+"SubSaveExternalStyleFile"=dword:00000000
+"PreSizeShadersEnabled"=dword:00000001
+"PostSizeShadersEnabled"=dword:00000001
+"RemainingTime"=dword:00000000
+"HighPrecisionTimer"=dword:00000000
+"UpdaterAutoCheck"=dword:00000000
+"UpdaterDelay"=dword:00000007
+"NotifySkype"=dword:00000000
+"JpegQuality"=dword:00000064
+"EnableCoverArt"=dword:00000001
+"CoverArtSizeLimit"=dword:00000258
+"EnableLogging"=dword:00000000
+"UseLegacyToolbar"=dword:00000000
+"DefaultToolbarSize"=dword:0000001c
+"SaveImagePosition"=dword:00000001
+"SaveImageCurrentTime"=dword:00000000
+"AllowInaccurateFastseek"=dword:00000001
+"LoopFolderOnPlayNextFile"=dword:00000000
+"LockNoPause"=dword:00000000
+"UseSMTC"=dword:00000001
+"ReloadAfterLongPause"=dword:0000001e
+"OpenRecordingPanelWhenOpeningDevice"=dword:00000001
+"UseYDL"=dword:00000001
+"YDLMaxHeight"=dword:000005a0
+"YDLVideoFormat"=dword:00000000
+"YDLAudioFormat"=dword:00000000
+"YDLAudioOnly"=dword:00000000
+"YDLExePath"=""
+"YDLCommandLine"=""
+"EnableCrashReporter"=dword:00000001
+"TimeRefreshInterval"=dword:00000064
+"ShowLangInStatusbar"=dword:00000000
+"ShowFPSInStatusbar"=dword:00000000
+"ShowABMarksInStatusbar"=dword:00000000
+"ShowVideoInfoInStatusbar"=dword:00000000
+"AddLanguageCodeWhenSaveSubtitles"=dword:00000001
+"UseTitleInRecentFileList"=dword:00000001
+"YDLSubsPreference"=""
+"UseAutomaticCaptions"=dword:00000000
+"LastQuickOpenPath"=""
+"LastSaveImagePath"="D:\\This PC\\Pictures"
+"RedirectOpenToAppendThreshold"=dword:000003e8
+"FullscreenSeparateControls"=dword:00000000
+"AlwaysUseShortMenu"=dword:00000000
+"StillVideoDuration"=dword:0000000a
+"MouseLeftUpDelay"=dword:000000fa
+"AutoloadSubtitles"=dword:00000001
+"IconLibVersion"=dword:00000539
+"ModernSeekbar"=dword:00000001
+"SPCMaxRes"=dword:00000000
+"SPCSize"=dword:0000000a
+"QTVidRen"=dword:00000002
+"RMVidRen"=dword:00000002
+"IntRealMedia"=dword:00000000
+"GoToLastUsed"=dword:00000000
+"LastWindowRect"=hex:7d,00,00,00,00,00,00,00,e6,06,00,00,21,04,00,00
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode]
+"Enable"=dword:00000000
+"ApplyDefaultModeAtFSExit"=dword:00000001
+"RestoreResAfterExit"=dword:00000001
+"Delay"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode0]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:00000000
+"FrameRateStop"=dword:00000000
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode1]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:016694e0
+"FrameRateStop"=dword:016debc8
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode2]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:016defb0
+"FrameRateStop"=dword:0175d338
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode3]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:0175d720
+"FrameRateStop"=dword:01851578
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode4]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:01c22260
+"FrameRateStop"=dword:01c97948
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode5]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:01c97d30
+"FrameRateStop"=dword:01d160b8
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode6]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:02f34f60
+"FrameRateStop"=dword:03028db8
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode7]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:038be5e0
+"FrameRateStop"=dword:0392b028
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode8]
+"Checked"=dword:00000001
+"FrameRateStart"=dword:0392b410
+"FrameRateStop"=dword:039b2438
+"AudioDelay"=dword:00000000
+"BPP"=dword:00000020
+"Freq"=dword:0000003c
+"SizeX"=dword:00000780
+"SizeY"=dword:00000438
+"Flags"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\FullscreenAutoChangeMode\Mode9]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Settings\PnSPresets]
+"Preset0"="Scale to 16:9 TV,0.500,0.500,1.000,1.333"
+"Preset1"="Zoom to Widescreen,0.500,0.500,1.333,1.333"
+"Preset2"="Zoom to Ultra-Widescreen,0.500,0.500,1.763,1.763"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Shaders]
+"Extra"=""
+"PreResize"=""
+"PostResize"=""
+"LastPreset"="Disabled"
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\Shaders\Presets]
+"0"="Disabled"
+"PreResize0"=""
+"PostResize0"=""
+"1"="Sharpen"
+"PreResize1"=".\\Sharpen complex 2.hlsl"
+"PostResize1"=""
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars]
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Capture Settings]
+"DockState"=dword:0000e81c
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Capture Settings\State-SCBar-825]
+"sizeHorzCX"=dword:00000108
+"sizeHorzCY"=dword:000002dd
+"sizeVertCX"=dword:00000108
+"sizeVertCY"=dword:000002dd
+"sizeFloatCX"=dword:00000108
+"sizeFloatCY"=dword:000002dd
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Edit List Editor]
+"DockState"=dword:0000e81d
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Edit List Editor\State-SCBar-846]
+"sizeHorzCX"=dword:000000c8
+"sizeHorzCY"=dword:00000064
+"sizeVertCX"=dword:000000c8
+"sizeVertCY"=dword:00000064
+"sizeFloatCX"=dword:000000c8
+"sizeFloatCY"=dword:00000064
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Navigation Bar]
+"DockState"=dword:0000e81c
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Navigation Bar\State-SCBar-33415]
+"sizeHorzCX"=dword:000000ba
+"sizeHorzCY"=dword:00000096
+"sizeVertCX"=dword:000000ba
+"sizeVertCY"=dword:00000096
+"sizeFloatCX"=dword:000000ba
+"sizeFloatCY"=dword:00000096
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Playlist]
+"DockState"=dword:0000e81b
+"Visible"=dword:00000000
+"DockPosX"=dword:000003bc
+"DockPosY"=dword:0000002b
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Playlist\State-SCBar-824]
+"sizeHorzCX"=dword:0000064b
+"sizeHorzCY"=dword:00000064
+"sizeVertCX"=dword:000000c8
+"sizeVertCY"=dword:00000388
+"sizeFloatCX"=dword:00000336
+"sizeFloatCY"=dword:00000365
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Subresync]
+"DockState"=dword:0000e81b
+"DockPosX"=dword:00000031
+"DockPosY"=dword:000000b5
+
+[HKEY_CURRENT_USER\Software\MPC-HC\MPC-HC\ToolBars\Subresync\State-SCBar-823]
+"sizeHorzCX"=dword:0000064b
+"sizeHorzCY"=dword:000000c8
+"sizeVertCX"=dword:000000c8
+"sizeVertCY"=dword:000003b0
+"sizeFloatCX"=dword:0000068b
+"sizeFloatCY"=dword:00000306
+
